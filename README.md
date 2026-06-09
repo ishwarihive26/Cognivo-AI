@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Cognivo AI — Multi-Provider Intelligent Assistant Platform
+AI Chat • Tool Integration • Analytics Dashboard • Modern SaaS Interface
+Executive Snapshot (2-Minute Read)
+Ognivo AI is a modern AI assistant platform that enables users to interact with multiple AI providers through a unified interface. The platform combines conversational AI, provider switching, tool integration, analytics, and user preferences to deliver a seamless AI-powered experience.
 
-## Getting Started
+Built with React and Next.js, Ognivo AI is designed to provide a clean, scalable, and ChatGPT-inspired interface for productivity and experimentation.
 
-First, run the development server:
+Project Goals
+Many AI applications restrict users to a single provider or workflow. Ognivo AI addresses this challenge by offering:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Multi-provider AI access
+Tool selection and management
+Centralized chat experience
+Analytics and usage insights
+Personalized settings and preferences
+Application Walkthrough
+Main Chat Interface
+Users can interact with AI models through a clean conversational interface featuring:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Real-time messaging
+Chat history management
+Responsive design
+Modern user experience
+Tool Selection Panel
+The platform supports AI-powered tools such as:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Web Search
+Summarization
+Code Generation
+Data Analysis
+Content Creation
+Analytics Dashboard
+Track key usage metrics including:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Total conversations
+Messages sent
+Most-used tools
+Provider usage statistics
+User activity trends
+Tech Stack
+Frontend: React, Next.js
 
-## Learn More
+Styling: Tailwind CSS, Shadcn UI
 
-To learn more about Next.js, take a look at the following resources:
+Components: ChatBox, ProviderSelector, ToolPanel, MessageHistory
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Analytics: Recharts
