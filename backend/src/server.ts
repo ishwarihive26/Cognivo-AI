@@ -34,7 +34,15 @@ app.use((req: Request, res: Response, next: NextFunction) => {
   console.log(`[${timestamp}] ${req.method} ${req.path}`);
   next();
 });
+// ========================
+// ROUTES
+// ========================
 
+import authRoutes from './routes/auth';
+
+app.use('/api/auth', authRoutes);
+
+// More routes will be added here
 // ========================
 // DATABASE CONNECTION
 // ========================
