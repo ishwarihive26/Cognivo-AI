@@ -42,6 +42,7 @@ Database	MongoDB for flexible and efficient data storage
 Architecture	Modular, maintainable, and production-friendly
 Performance	Optimized for speed and smooth user experience
 UX	Clean interface with responsive design principles
+
 Tech Stack
 Frontend
 Next.js
@@ -105,4 +106,4 @@ cd cognivo-ai
 npm install
 Run Locally
 bash
-npm run dev
+npm run dev.
