@@ -95,6 +95,10 @@ app.get('/api/status', (req: Request, res: Response) => {
 // ========================
 
 // app.use('/api/auth', authRoutes);
+// Add after auth routes
+import chatRoutes from './routes/chat';
+
+app.use('/api/chat', chatRoutes);
 // app.use('/api/chat', chatRoutes);
 // app.use('/api/images', imageRoutes);
 // app.use('/api/voice', voiceRoutes);
