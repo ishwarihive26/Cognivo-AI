@@ -20,9 +20,6 @@ Modular code structure
 
 Real-time data handling
 
-Dashboard Walkthrough
-Cognivo AI features a modern interface designed for clarity, speed, and usability. The dashboard is structured to help users interact with AI-powered tools efficiently while maintaining a clean and intuitive experience.
-
 Core Sections
 Authentication System — secure sign-in and user access control.
 
