@@ -21,6 +21,7 @@ Modular code structure
 Real-time data handling
 
 Core Sections
+
 Authentication System — secure sign-in and user access control.
 
 AI Functionality — intelligent request handling and AI-powered responses.
@@ -32,6 +33,7 @@ API Layer — structured REST endpoints for frontend-backend communication.
 Real-time Handling — supports dynamic and fast data updates.
 
 Project Highlights
+
 Area	Details
 Frontend	Built with Next.js, TypeScript, and Tailwind CSS
 Backend	Node.js and Express.js for scalable server logic
@@ -41,6 +43,7 @@ Performance	Optimized for speed and smooth user experience
 UX	Clean interface with responsive design principles
 
 Tech Stack
+
 Frontend
 Next.js
 
@@ -48,13 +51,6 @@ TypeScript
 
 Tailwind CSS
 
-Backend
-Node.js
-
-Express.js
-
-Database
-MongoDB
 
 Additional Focus
 REST API integration
