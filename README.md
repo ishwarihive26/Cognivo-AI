@@ -51,7 +51,6 @@ TypeScript
 
 Tailwind CSS
 
-
 Additional Focus
 REST API integration
 
