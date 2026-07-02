@@ -5,7 +5,6 @@ Executive Snapshot
 Cognivo AI is a modern full-stack AI application built to deliver intelligent, scalable, and responsive user experiences. It combines a clean frontend with a modular backend architecture, making it suitable for AI-driven workflows, automation, and data-rich applications.
 
 The project is designed with a focus on:
-
 Scalable architecture
 
 Responsive UI
