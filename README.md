@@ -146,11 +146,3 @@ http://localhost:3000
 Unlike simple AI demos, Cognivo AI is designed with production-quality architecture and modern development practices. It focuses on scalability, maintainability, security, and performance, making it an excellent foundation for building real-world AI-powered SaaS applications.
 
 ---
-
-## Contributing
-
-Contributions are welcome.
-
-Feel free to fork the repository, create a feature branch, and submit a pull request.
-
----
